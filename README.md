@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 - 🔭 I’m currently a student at Berkeley studying Eleectrical Engineering & Computer Sciences (EECS).
-- 🌱 I’ve previously interned a Virgil Quantitative Research, a crypto hedge fund, Cisco Systems and Hitachi Vantara as a Software Engineer Intern!
+- 🌱 I’ve previously interned a Virgil Quantitative Research, a crypto hedge fund, Cisco and Hitachi Vantara as a Software Engineer Intern!
 - 👯 I’m deeply involved in student organization at Berkeley including Blockchain @ Berkeley and Venture Strategy Solutions.
 
 <!--
