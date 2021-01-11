@@ -5,9 +5,9 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently a student at Berkeley studying Electrical Engineering & Computer Sciences (EECS).
-- 🌱 I’m currently an incoming Software Engineer Intern @ Coinbase. In the past, I've interned a VQR, a crypto hedge fund, Cisco and Hitachi Vantara as a Software Engineer Intern!
-- 👯 I’m deeply involved in student organizations at Berkeley including Blockchain @ Berkeley and Venture Strategy Solutions.
+- I’m currently a student at Berkeley studying Electrical Engineering & Computer Sciences (EECS).
+- I’m currently an incoming Software Engineer Intern @ Coinbase. In the past, I've interned a VQR, a crypto hedge fund, Cisco and Hitachi Vantara as a Software Engineer Intern!
+- I’m deeply involved in student organizations at Berkeley including Blockchain @ Berkeley, the Berkeley Blockchain Xcerlerator and Venture Strategy Solutions.
 
 <!--
 - 🤔 I’m looking for help with ...
