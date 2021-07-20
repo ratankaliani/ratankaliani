@@ -1,4 +1,4 @@
-### Hey there, I'm Ratan! 👋
+### Ratan Kaliani 🐻
 
 <!--
 **ratankaliani/ratankaliani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -6,10 +6,14 @@
 Here are some ideas to get you started:
 -->
 
-- I’m currently a student at Berkeley studying Electrical Engineering & Computer Sciences (EECS).
-- I’m currently a Software Engineer Intern @ Coinbase on the Crypto Team. In the past, I've interned a quantitative crypto hedge fund, Cisco and Hitachi Vantara as a Software Engineer Intern!
-- I’m deeply involved in student organizations at Berkeley including Blockchain @ Berkeley & the Berkeley Blockchain Xcerlerator.
+- SWE Intern on [Coinbase](https://coinbase.com) Crypto & President of [Blockchain at Berkeley](https://blockchain.berkeley.edu)
+- Prev: SWE Intern @ Quantitative Hedge Fund, Cisco & Hitachi Vantara & [Director @ Berkeley Blockchain Xcelerator](https://xcelerator.berkeley.edu)
 
+**Links**
+- [ratankaliani.com](https://ratankaliani.com)
+- Twitter: [ratankaliani](https://twitter.com/ratankaliani)
+- LinkedIn: [ratankaliani](https://linkedin.com/in/ratankaliani)
+- Email: [ratan@berkeley.edu](mailto:ratan@berkeley.edu)
 <!--
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
