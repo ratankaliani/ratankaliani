@@ -6,8 +6,8 @@
 Here are some ideas to get you started:
 -->
 
-- SWE Intern on [Coinbase](https://coinbase.com) Crypto | President of [Blockchain at Berkeley](https://blockchain.berkeley.edu)
-- Prev: SWE Intern @ Quantitative Hedge Fund, Cisco & Hitachi Vantara | Director @ [Berkeley Blockchain Xcelerator](https://xcelerator.berkeley.edu)
+- President of [Blockchain at Berkeley](https://blockchain.berkeley.edu)
+- Prev: SWE Intern @ Coinbase, Quantitative Hedge Fund, Cisco & Hitachi Vantara | Director @ [Berkeley Blockchain Xcelerator](https://xcelerator.berkeley.edu)
 
 **Links**
 - [ratankaliani.com](https://ratankaliani.com)
