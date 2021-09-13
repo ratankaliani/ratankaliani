@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-- President of [Blockchain at Berkeley](https://blockchain.berkeley.edu)
+- I'm currently President of [Blockchain at Berkeley](https://blockchain.berkeley.edu)
 - Prev: SWE Intern @ Coinbase, Quantitative Hedge Fund, Cisco & Hitachi Vantara | Director @ [Berkeley Blockchain Xcelerator](https://xcelerator.berkeley.edu)
 
 **Links**
