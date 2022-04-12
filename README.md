@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-- I'm currently President of [Blockchain at Berkeley](https://blockchain.berkeley.edu)
+- President of [Blockchain at Berkeley](https://blockchain.berkeley.edu) | Researcher @ [Polychain](https://polychain.capital)
 - Prev: SWE Intern @ Coinbase, Quantitative Hedge Fund | Director @ [Berkeley Blockchain Xcelerator](https://xcelerator.berkeley.edu)
 
 **Links**
