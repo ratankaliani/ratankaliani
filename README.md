@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 -->
 
 - ⚒️
-- Prev: President of [Blockchain at Berkeley](https://blockchain.berkeley.edu) | Research Engineer @ [Polychain](https://polychain.capital) | Engineer @ Coinbase (Crypto Core), Quantitative Hedge Fund | Director @ [Berkeley Blockchain Xcelerator](https://xcelerator.berkeley.edu)
+- Prev: President of [Blockchain at Berkeley](https://blockchain.berkeley.edu) | Research Engineer @ [Polychain](https://polychain.capital) | Engineer @ Coinbase (Crypto Core), Quantitative Hedge Fund | MD @ [Berkeley Blockchain Xcelerator](https://xcelerator.berkeley.edu)
 
 **Links**
 - [ratankaliani.com](https://ratankaliani.com)
