@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - Twitter: [ratankaliani](https://twitter.com/ratankaliani)
 - LinkedIn: [ratankaliani](https://linkedin.com/in/ratankaliani)
 - Email: [ratan@berkeley.edu](mailto:ratan@berkeley.edu)
+
+[![Ratan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ratankaliani)](https://github.com/anuraghazra=/github-readme-stats)
 <!--
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
