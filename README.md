@@ -5,6 +5,7 @@
 
 Here are some ideas to get you started:
 -->
+Engineer @SuccinctLabs
 
 Prev: President of [Blockchain at Berkeley](https://blockchain.berkeley.edu) | Research Engineer @ [Polychain](https://polychain.capital) | Engineer @ Coinbase (Crypto Core), Quantitative Hedge Fund
 
