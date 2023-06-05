@@ -15,7 +15,7 @@ Prev: President of [Blockchain at Berkeley](https://blockchain.berkeley.edu) | R
 - LinkedIn: [ratankaliani](https://linkedin.com/in/ratankaliani)
 - Email: [ratan@berkeley.edu](mailto:ratan@berkeley.edu)
 
-[![Ratan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ratankaliani)](https://github.com/anuraghazra=/github-readme-stats)
+<!-- [![Ratan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ratankaliani)](https://github.com/anuraghazra=/github-readme-stats) -->
 <!--
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
