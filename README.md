@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-Prev: Founding Engineer @ [Succinct](https://succinct.xyz) | President of [Blockchain at Berkeley](https://blockchain.berkeley.edu)
+MTS @ [Decagon](https://decagon.ai/) Prev: Founding Engineer @ [Succinct](https://succinct.xyz) | President of [Blockchain at Berkeley](https://blockchain.berkeley.edu)
 
 <!-- [![Ratan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ratankaliani)](https://github.com/anuraghazra=/github-readme-stats) -->
 <!--
